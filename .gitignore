@@ -1,0 +1,15 @@
+# Local Conda environment and editor settings
+.conda/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal and generated test images
+original.png
+blurred.png
+reconstructed.png
+reconstructed_kernel15.png
+test*.png
+results/
